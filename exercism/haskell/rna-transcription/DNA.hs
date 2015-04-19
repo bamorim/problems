@@ -1,8 +1,7 @@
 module DNA where
 
 toRNA :: [Char] -> [Char]
-toRNA [] = []
-toRNA seq = map comp seq
+toRNA s = map comp s
   where
     comp 'A' = 'U'
     comp 'C' = 'G'
