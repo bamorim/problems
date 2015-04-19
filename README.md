@@ -12,3 +12,5 @@ I'm planning to also solve:
 - [*HackerRank*](https://www.hackerrank.com/)
 - [*CodeEval*](https://www.codeeval.com/)
 - *X-99*: There are plenty of versions derivated from P-99 (Prolog 99 problems), scala, haskell, lisp and so on...
+
+To see what problems I've solved, check [*SOLVED.md*](SOLVED.md)
