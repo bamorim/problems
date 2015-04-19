@@ -30,3 +30,4 @@
 ## Rosalind
 
 * [Couting DNA Nucleotides](http://rosalind.info/problems/dna/)
+* [Transcribing DNA into RNA](http://rosalind.info/problems/rna/)
