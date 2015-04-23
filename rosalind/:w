@@ -1,0 +1,13 @@
+def indexes(outer,inner):
+    results = []
+    for i in range(len(outer)-len(inner)+1):
+        print(i,results)
+        for j in range(len(inner)):
+            print(i,j,outer[i+j], inner[j])
+            if outer[i+j] != inner[j]:
+                break;
+            elif j == len(inner)-1:
+                results.append(i)
+
+print(indexes("GATATATGCATATACTT","ATAT"))
+
