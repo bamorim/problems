@@ -14,3 +14,9 @@ I'm planning to also solve:
 - *X-99*: There are plenty of versions derivated from P-99 (Prolog 99 problems), scala, haskell, lisp and so on...
 
 To see what problems I've solved, check [*SOLVED.md*](SOLVED.md)
+
+# Profiles
+
+* [bamorim @ exercism.io](http://exercism.io/bamorim)
+* [bamorim @ Rosalind](http://rosalind.info/users/bamorim/)
+* [bamorim @ Project Euler](https://projecteuler.net/progress=bamorim) Add me with this key: 257493_23b2f933463d81eee4ae90c3d2f64d0e
