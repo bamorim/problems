@@ -20,6 +20,8 @@
   * Accumulate
   * Leap
   * Rna Transcription
+* Elixir
+  * Bob
 
 ## Project Euler
 
