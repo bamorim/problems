@@ -22,6 +22,7 @@
   * Rna Transcription
 * Elixir
   * Bob
+  * Word Count
 
 ## Project Euler
 
