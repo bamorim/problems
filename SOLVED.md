@@ -26,6 +26,7 @@
 * 42 - Coded Triangle Numbers
 * 43 - Substring Divisibility
 * 53 - Combinatoric Selections
+* 92 - Square digit chains
 
 ## Rosalind
 
