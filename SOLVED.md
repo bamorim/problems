@@ -23,6 +23,7 @@
 * Elixir
   * Bob
   * Word Count
+  * List Operations
 
 ## Project Euler
 
