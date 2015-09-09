@@ -16,6 +16,9 @@
   * Rna Transcription
   * Leap
   * Accumulate
+  * Strain
+  * Point Mutations
+  * Space Age
 * Haskell
   * Accumulate
   * Leap
