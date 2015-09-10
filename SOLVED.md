@@ -19,6 +19,8 @@
   * Strain
   * Point Mutations
   * Space Age
+  * Grains
+  * Anagram
 * Haskell
   * Accumulate
   * Leap
